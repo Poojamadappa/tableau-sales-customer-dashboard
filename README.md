@@ -48,13 +48,13 @@ Download the .twbx Tableau packaged workbook file.
 Open the file using Tableau Desktop or Tableau Public.
 Interact with filters and dashboards.
 Explore customer and sales insights.
-# 📷 Dashboard Preview
 
+# Dashboard Preview
 ## Sales Dashboard
-![Sales Dashboard](images/sales-dashboard.png)
+![Sales Dashboard](dataset/images/sales-dashboard.png)
 
 ## Customer Dashboard
-![Customer Dashboard](images/customer-dashboard.png)
+![Customer Dashboard](dataset/images/customer-dashboard.png)
 
 ## About Me
 Let's stay in touch! Feel free to connect with me on the following platforms:
